@@ -10,7 +10,7 @@ nuget Fable.Core
 nuget Fable.Elmish
 nuget Fable.Elmish.React
 nuget Fable.Elmish.Debugger
-nuget Fable.Elmish.HMR
+nuget Fable.Elmish.HMR 4.1
 nuget Fable.Mocha
 nuget Fable.React
 nuget Fable.Remoting.Client
